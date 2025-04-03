@@ -12,7 +12,7 @@ The **NTAG213** is a popular NFC (Near Field Communication) tag chip developed b
 
 - **Type:** NFC Forum Type 2 Tag
 - **Technology:** Based on ISO/IEC 14443-A standard
-- **Manufacturer:** NXP Semiconductors
+- **Type :** **NXP213 or compatible**
 - **Memory Size:** 144 bytes of usable user memory (EEPROM)
 - **Security:** Supports password protection and 32-bit password + 24-bit pack
 
